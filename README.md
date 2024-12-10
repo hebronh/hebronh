@@ -4,7 +4,7 @@
 # 🛠 Experience
 ### [DroneWorld](https://github.com/oss-slu/DroneWorld?tab=readme-ov-file) 
 - 🌐 Built a [Drone simulation platform](https://github.com/oss-slu/DroneWorld?tab=readme-ov-file)
-- 🛠 Architected an website using React Native and integrated Unreal Engine for immersive interactive elements or 3D visualization.
+- 🛠 Architected a platform using React Native and integrated Unreal Engine for immersive interactive elements or 3D visualization.
 
 ### [Independent Research](https://doi.org/10.47611/jsr.v12i4.2281)
 - 🧠 Led a group of high school students on research exploring the neural mechanisms of empathy. Our research, over-seen by Dr. Mulugeta of Columbia University, was then published in the Journal of Student Research [Publication Here](https://doi.org/10.47611/jsr.v12i4.2281)
