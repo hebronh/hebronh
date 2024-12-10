@@ -7,7 +7,7 @@
 - 🛠 Architected a platform using React Native, Python-based backend, and integrated Unreal Engine for immersive interactive elements or 3D visualization.
 
 ### [Independent Research](https://doi.org/10.47611/jsr.v12i4.2281)
-- 🧠 Led a group of high school students on research exploring the neural mechanisms of empathy. Our research, over-seen by Dr. Mulugeta of Columbia University, was then published in the Journal of Student Research [Publication Here](https://doi.org/10.47611/jsr.v12i4.2281)
+- 🧠 Led a group of high school students on research exploring the neural mechanisms of empathy. Our research, over-seen by Dr. Mulugeta of Columbia University, was then published in the Journal of Student Research. [Publication Here](https://doi.org/10.47611/jsr.v12i4.2281)
 
 ### [Research at NYC Metropilitan](https://www.sciencedirect.com/science/article/abs/pii/S0735675723003297) 
 - 💀 Contributed to research analyzing manual hand drill versus an electric dual-motor drill using 3-D printed models. [Publication Here](https://www.sciencedirect.com/science/article/abs/pii/S0735675723003297)
