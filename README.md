@@ -13,5 +13,5 @@
 - 💀 Contributed to research analyzing manual hand drill versus an electric dual-motor drill using 3-D printed models. [Publication Here](https://www.sciencedirect.com/science/article/abs/pii/S0735675723003297)
 
 ### [Research at Washington University in St. Louis](https://symposium.foragerone.com/fall-2023-undergraduate-research-symposium/presentations/59614) 
-- 🤖🧠 Machine Learning research on CNN Pre-Processing for Automated Identification of Vibrational Acoustic Signals at Washington University in St. Louis [Research Here](https://symposium.foragerone.com/fall-2023-undergraduate-research-symposium/presentations/59614)
+- 🤖🧠 Machine Learning research on CNN Pre-Processing for Automated Identification of Vibrational Acoustic Signals at Washington University in St. Louis. [Research Here](https://symposium.foragerone.com/fall-2023-undergraduate-research-symposium/presentations/59614)
 
