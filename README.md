@@ -1,5 +1,5 @@
 # Hebron Bekele 
-## You can visit my <a href="https://sites.google.com/view/hebronbekele/home">website</a>
+## You can visit my <a href="http://www.hebron-bekele.com/">website</a>
 
 # 🛠 Experience
 ### [DroneWorld](https://github.com/oss-slu/DroneWorld?tab=readme-ov-file) 
